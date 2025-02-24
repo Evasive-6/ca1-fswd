@@ -1,0 +1,21 @@
+.team-member-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .team-member-card h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .team-member-card p {
+    margin: 8px 0 0;
+    font-size: 1em;
+    color: #666;
+  }
+  
